@@ -1,2 +1,2 @@
 # ML-Micro-Projects
-Data science projects build using machine learning .
+Data science projects build using machine learning models .
